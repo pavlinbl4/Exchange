@@ -1,0 +1,1 @@
+def loto(n):
